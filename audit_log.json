@@ -1,0 +1,114 @@
+[
+  {
+    "content_id": "cc79bc98-a6bf-4a78-8c8c-5292fcb74046",
+    "creator_id": "test-user",
+    "timestamp": "2026-06-24T19:36:30.810859+00:00",
+    "attribution": "uncertain_leaning_ai",
+    "confidence": 0.824,
+    "signal_1_score": 0.9,
+    "signal_1_reasoning": "The text exhibits overly formal and repetitive language, with an abundance of buzzwords and cliches, suggesting AI generation. The uniform sentence structure and lack of nuance or personal touch further support this assessment.",
+    "signal_2_score": 0.7099,
+    "status": "classified"
+  },
+  {
+    "content_id": "373e3ca7-b154-4c23-b01b-38d9bfc18988",
+    "creator_id": "test-user",
+    "timestamp": "2026-06-24T19:36:31.444047+00:00",
+    "attribution": "likely_human",
+    "confidence": 0.258,
+    "signal_1_score": 0.2,
+    "signal_1_reasoning": "The text exhibits informal, conversational language and erratic sentence structure, which is more typical of human writing, and the use of colloquial expressions and emotional language also suggests a human author.",
+    "signal_2_score": 0.345,
+    "status": "classified"
+  },
+  {
+    "content_id": "491bdedc-886d-4e19-8d82-2ea6e5e70fb9",
+    "creator_id": "test-user",
+    "timestamp": "2026-06-24T19:36:32.106919+00:00",
+    "attribution": "likely_human",
+    "confidence": 0.3878,
+    "signal_1_score": 0.2,
+    "signal_1_reasoning": "The text exhibits a formal and structured tone, with complex sentence structures and technical vocabulary, which is consistent with academic writing by humans. The use of specific research methods, data analysis, and policy implications also suggests a human-written text with a clear purpose and audience in mind.",
+    "signal_2_score": 0.6696,
+    "status": "classified"
+  },
+  {
+    "content_id": "1ec2a9c9-7041-467d-9b54-5af8212bae54",
+    "creator_id": "test-user",
+    "timestamp": "2026-06-24T19:36:32.755435+00:00",
+    "attribution": "uncertain_leaning_ai",
+    "confidence": 0.7478,
+    "signal_1_score": 0.8,
+    "signal_1_reasoning": "The text exhibits a formal and structured tone, with a clear and logical sequence of ideas, which is consistent with AI-generated content. The use of transitional phrases and a consistent sentence structure also suggests a machine-generated origin.",
+    "signal_2_score": 0.6696,
+    "status": "classified"
+  },
+  {
+    "content_id": "6dbc4c82-c1ff-497b-b1bc-1142553906ec",
+    "creator_id": "verifier",
+    "timestamp": "2026-06-24T19:42:41.711408+00:00",
+    "attribution": "uncertain_leaning_ai",
+    "confidence": 0.8132,
+    "signal_1_score": 0.9,
+    "signal_1_reasoning": "The text exhibits overly formal and generic language, with a reliance on buzzwords like 'advanced algorithms' and 'intelligent solutions', which is typical of AI-generated content. The sentence structure and word choice also lack the nuance and variability often found in human writing.",
+    "signal_2_score": 0.6829,
+    "status": "under_review",
+    "appeal_reasoning": "I am a human writer and this text was written by me personally.",
+    "appeal_timestamp": "2026-06-24T19:42:41.718717+00:00"
+  },
+  {
+    "content_id": "6ed4b9f6-544c-4e52-9980-c55209a0727f",
+    "creator_id": "rate-tester",
+    "timestamp": "2026-06-24T19:42:42.116258+00:00",
+    "attribution": "uncertain_leaning_ai",
+    "confidence": 0.7215,
+    "signal_1_score": 0.9,
+    "signal_1_reasoning": "The text is brief and lacks contextual information, with a simplistic sentence structure, which is consistent with AI-generated content. The phrase 'test submission number 1' also suggests an automated or systematic process.",
+    "signal_2_score": 0.4537,
+    "status": "classified"
+  },
+  {
+    "content_id": "f3a66fba-8c25-407c-a4ad-0aa285e61bfe",
+    "creator_id": "rate-tester",
+    "timestamp": "2026-06-24T19:42:42.671531+00:00",
+    "attribution": "uncertain_leaning_ai",
+    "confidence": 0.7215,
+    "signal_1_score": 0.9,
+    "signal_1_reasoning": "The text is brief and lacks contextual information, with a straightforward and simplistic sentence structure, which is consistent with AI-generated content. The phrase 'test submission number 2' also suggests an automated or systematic process.",
+    "signal_2_score": 0.4537,
+    "status": "classified"
+  },
+  {
+    "content_id": "0ae8af49-5a22-47af-abdc-65fd77d03d41",
+    "creator_id": "rate-tester",
+    "timestamp": "2026-06-24T19:44:00.951670+00:00",
+    "attribution": "uncertain_leaning_ai",
+    "confidence": 0.7133,
+    "signal_1_score": 0.9,
+    "signal_1_reasoning": "The text is extremely brief and lacks contextual information, which is a common trait of AI-generated content, and the phrase 'test number 1' suggests an automated or systematic process.",
+    "signal_2_score": 0.4333,
+    "status": "classified"
+  },
+  {
+    "content_id": "e2fbfd3a-5d77-4a35-b738-f4d8953999ad",
+    "creator_id": "rate-tester",
+    "timestamp": "2026-06-24T19:44:01.270726+00:00",
+    "attribution": "uncertain_leaning_ai",
+    "confidence": 0.7133,
+    "signal_1_score": 0.9,
+    "signal_1_reasoning": "The text is extremely brief and lacks contextual information, which is a common trait of AI-generated content, and the phrase 'test number 2' suggests an automated or systematic process.",
+    "signal_2_score": 0.4333,
+    "status": "classified"
+  },
+  {
+    "content_id": "31248909-85d8-4313-ab15-befa274d924d",
+    "creator_id": "rate-tester",
+    "timestamp": "2026-06-24T19:44:01.831868+00:00",
+    "attribution": "uncertain_leaning_ai",
+    "confidence": 0.7133,
+    "signal_1_score": 0.9,
+    "signal_1_reasoning": "The text is brief and lacks contextual information, with a simple sentence structure, which is consistent with AI-generated content. The phrase 'test number 3' also suggests an automated or systematic process, further indicating AI generation.",
+    "signal_2_score": 0.4333,
+    "status": "classified"
+  }
+]
